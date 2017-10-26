@@ -79,8 +79,7 @@ JUnit으로 샘플 프로그램을 테스트하기 위한 클래스의 이름은
 JUnit 4.12 설치에 관한 내용은 책을 참조하세요.
 여기서는 `junit-4.12.jar(C:\work\junit4.12\junit-4.12.jar)`를 예로 들어 설명합니다.
 
-### Windows의 경우 
-`MainTest.java`을 포함한 디렉터리에서 다음 명령을 실행합니다. 
+윈도의 경우 `MainTest.java`을 포함한 디렉터리에서 다음 명령을 실행합니다.
 
 ```
 javac -classpath ".;../..;C:/work/junit4.12/junit-4.12.jar" MainTest.java 
