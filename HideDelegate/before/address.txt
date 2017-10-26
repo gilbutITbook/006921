@@ -1,0 +1,5 @@
+#
+#Sun Aug 20 23:07:58 KST 2017
+Hiroshi\ Yuki=hyuki@example.com
+Tomura=tomura@example.com
+Hanako\ Sato=hanako@example.com

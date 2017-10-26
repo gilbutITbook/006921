@@ -1,0 +1,13 @@
+public class Something {
+    public void method1() throws SomethingException {
+        // ...
+    }
+    public void method2() throws SomethingException {
+        // ...
+    }
+    public void method3() throws SomethingException {
+        // ...
+        throw new SomethingException("method3: file open error.");
+    }
+    // ...
+}
